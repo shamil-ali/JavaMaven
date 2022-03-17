@@ -1,4 +1,4 @@
-package com.qa.solid;
+package com.qa.solid.openclose;
 
 public interface Shape {
 	
